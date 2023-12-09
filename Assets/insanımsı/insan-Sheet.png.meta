@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f290e312a41defd4a98896e01dcc9e4b
+guid: 817ce142dad734a41906fda20ebbc582
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sonhareket-Sheet_0
+      name: insan-Sheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82fca40bc7e762c40b0c9a4d18395b7b
-      internalID: 30827461
+      spriteID: 305dca5cc75e33b448141c4ad5ba3463
+      internalID: 2094983298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sonhareket-Sheet_1
+      name: insan-Sheet_1
       rect:
         serializedVersion: 2
         x: 48
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8554daa8e549c554ba4e60c0ae390de9
-      internalID: 1928611307
+      spriteID: e94ae1fd0e64b414895341a98fcb5ffc
+      internalID: -1270808250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sonhareket-Sheet_2
+      name: insan-Sheet_2
       rect:
         serializedVersion: 2
         x: 96
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cb7e42aefc939e4795ccc09b3aa7c4e
-      internalID: 1591488389
+      spriteID: 02f36a7999b41ca4aa74482c973ad9a6
+      internalID: 1590210170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sonhareket-Sheet_3
+      name: insan-Sheet_3
       rect:
         serializedVersion: 2
         x: 144
@@ -187,50 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff21b751ad44d9944828aa55890d47b5
-      internalID: -456377019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sonhareket-Sheet_4
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b2c302b0c228484a90799701797c8b1
-      internalID: 339082378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sonhareket-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 240
-        y: 0
-        width: 48
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c9fb8e9be3ebb047908f606dbcbd9aa
-      internalID: -1864947581
+      spriteID: 83998506e0fccd74ca25d2a083fb5989
+      internalID: -942811406
       vertices: []
       indices: 
       edges: []
@@ -246,12 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      sonhareket-Sheet_0: 30827461
-      sonhareket-Sheet_1: 1928611307
-      sonhareket-Sheet_2: 1591488389
-      sonhareket-Sheet_3: -456377019
-      sonhareket-Sheet_4: 339082378
-      sonhareket-Sheet_5: -1864947581
+      insan-Sheet_0: 2094983298
+      insan-Sheet_1: -1270808250
+      insan-Sheet_2: 1590210170
+      insan-Sheet_3: -942811406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
